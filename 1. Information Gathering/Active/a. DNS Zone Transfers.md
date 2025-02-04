@@ -1,4 +1,4 @@
-DNS : Protocol that is used to resolve domain names or hosts names to IP addresses
+ DNS : Protocol that is used to resolve domain names or hosts names to IP addresses
 
 DNS server = nameserver
 

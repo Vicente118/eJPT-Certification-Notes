@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Information Gathering/Active/a. DNS Zone Transfers.md",
+                "file": "1. Information Gathering/LAB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a. DNS Zone Transfers"
+              "title": "LAB"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Information Gathering/Active/a. DNS Zone Transfers.md",
+                "file": "1. Information Gathering/LAB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour a. DNS Zone Transfers"
+              "title": "Rétrolien pour LAB"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Information Gathering/Active/a. DNS Zone Transfers.md",
+                "file": "1. Information Gathering/LAB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de a. DNS Zone Transfers"
+              "title": "Liens sortants de LAB"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Information Gathering/Active/a. DNS Zone Transfers.md",
+                "file": "1. Information Gathering/LAB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de a. DNS Zone Transfers"
+              "title": "Plan de LAB"
             }
           },
           {
@@ -182,19 +182,20 @@
   },
   "active": "c539d48fcd3d0c12",
   "lastOpenFiles": [
+    "1. Information Gathering/Passive/f.  Subdomain Enumeration with Sublist3r.md",
     "1. Information Gathering/Active/c. Port Scanning with Nmap.md",
-    "1. Information Gathering/Active/b. Host Discovery with Nmap.md",
-    "1. Information Gathering/Active/a. DNS Zone Transfers.md",
-    "1. Information Gathering/Active/Sans titre 1.md",
     "1. Information Gathering/Passive/i.  Leaked Password Databases.md",
     "1. Information Gathering/Passive/h. Email Harvesting with theHarvester (Passive).md",
     "1. Information Gathering/Passive/g. Goole Dorks.md",
-    "1. Information Gathering/Passive/f.  Subdomain Enumeration with Sublist3r.md",
     "1. Information Gathering/Passive/e. WAF with wafw00f.md",
     "1. Information Gathering/Passive/d. DNS Recon.md",
     "1. Information Gathering/Passive/c. Netcraft.md",
     "1. Information Gathering/Passive/b. Whois Enumeration.md",
     "1. Information Gathering/Passive/a. Website Recon & Footprinting.md",
+    "1. Information Gathering/LAB.md",
+    "1. Information Gathering/Active/a. DNS Zone Transfers.md",
+    "1. Information Gathering/Active/b. Host Discovery with Nmap.md",
+    "1. Information Gathering/Active/Sans titre 1.md",
     "1. Information Gathering/Active",
     "1. Information Gathering/Passive",
     "12. Intro to the Web & HTTP Protocol",
