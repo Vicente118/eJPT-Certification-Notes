@@ -7,5 +7,7 @@
   "anuppuccin-theme-settings@@callout-radius": 8,
   "anuppuccin-theme-settings@@callout-padding": "8px",
   "anuppuccin-theme-settings@@anp-callout-fold-position": "1",
-  "anuppuccin-theme-settings@@anp-codeblock-numbers": true
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@file-margins": 10
 }

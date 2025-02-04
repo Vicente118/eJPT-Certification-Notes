@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cbc580bad67b082",
+            "id": "60bacb4df4c6bb5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. Information Gathering/Passive/c. Netcraft.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "c. Netcraft"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Information Gathering/Passive/c. Netcraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour c. Netcraft"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Information Gathering/Passive/c. Netcraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de c. Netcraft"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1. Information Gathering/Passive/c. Netcraft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de c. Netcraft"
             }
           },
           {
@@ -172,8 +179,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c4cd7ef435e13495",
+  "active": "60bacb4df4c6bb5d",
   "lastOpenFiles": [
+    "1. Information Gathering/Passive/d. DNS Recon.md",
+    "1. Information Gathering/Passive/c. Netcraft.md",
+    "1. Information Gathering/Passive/b. Whois Enumeration.md",
+    "1. Information Gathering/Passive/a. Website Recon & Footprinting.md",
+    "1. Information Gathering/Active",
+    "1. Information Gathering/Passive",
     "12. Intro to the Web & HTTP Protocol",
     "11. Social Engineering",
     "10. Post-Exploitation",
@@ -182,9 +195,6 @@
     "7. Network-Based Attacks",
     "6. System-Host Based Attacks",
     "5. Auditing Fundamentals",
-    "4. Vulnerability Assessment",
-    "3. Enumeration",
-    "2. Footprinting & Scanning",
     "Bienvenue.md"
   ]
 }
