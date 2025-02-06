@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b48dde27cb7174a1",
@@ -184,9 +183,10 @@
   "active": "c539d48fcd3d0c12",
   "lastOpenFiles": [
     "Pasted image 20250206012627.png",
+    "2. Footprinting & Scanning/1. Introduction/Active Information Gathering.md",
+    "ht.md",
     "Pasted image 20250206012547.png",
     "2. Footprinting & Scanning/2. Networking Primer/Networking Fundamentals.md",
-    "2. Footprinting & Scanning/1. Introduction/Active Information Gathering.md",
     "2. Footprinting & Scanning/1. Introduction",
     "1. Information Gathering/Passive/g. Goole Dorks.md",
     "2. Footprinting & Scanning/2. Networking Primer",
