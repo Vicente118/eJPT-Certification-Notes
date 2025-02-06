@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Footprinting & Scanning/1. Introduction/Active Information Gathering.md",
+                "file": "2. Footprinting & Scanning/2. Networking Primer/Networking Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active Information Gathering"
+              "title": "Networking Fundamentals"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "c539d48fcd3d0c12",
   "lastOpenFiles": [
-    "Pasted image 20250206012627.png",
     "2. Footprinting & Scanning/1. Introduction/Active Information Gathering.md",
+    "Pasted image 20250206012627.png",
     "ht.md",
     "Pasted image 20250206012547.png",
     "2. Footprinting & Scanning/2. Networking Primer/Networking Fundamentals.md",
