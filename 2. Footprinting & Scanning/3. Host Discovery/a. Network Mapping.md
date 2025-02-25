@@ -1,0 +1,1 @@
+-> Active information gathering phase which involves discovering hosts on a network, performing port scanning and enumeration.
