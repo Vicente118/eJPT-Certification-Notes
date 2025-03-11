@@ -1,5 +1,5 @@
 \- SMTP (Simple Mail Transfer Protocol) is a communication protocol that is used for the transmission of email.
-\- SMTP uses TCP port 25 by default. (Sometimes also on port 465 or 587)
+\- SMTP uses TCP port 25 by default. (Sometimes also on port 465 or 587 for TLS encrypt.)
 
 Enum user with : auxiliary/scanner/smtp/smtp_enum in MSF
 
