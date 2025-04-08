@@ -11,10 +11,14 @@
             "id": "468caddc6062e4ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6. System-Host Based Attacks/2. Windows Exploitation/d. Exploiting RDP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "d. Exploiting RDP"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ping sw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b48dde27cb7174a1",
@@ -153,8 +158,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -166,18 +171,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "terminal:Open terminal": false
     }
   },
   "active": "468caddc6062e4ee",
   "lastOpenFiles": [
+    "6. System-Host Based Attacks/2. Windows Exploitation/c. Exploiting SMB with PsExec.md",
+    "6. System-Host Based Attacks/2. Windows Exploitation/d. Exploiting RDP.md",
+    "6. System-Host Based Attacks/2. Windows Exploitation/b. Exploiting WebDAV with Metasploit.md",
+    "6. System-Host Based Attacks/2. Windows Exploitation/a. Exploiting Microsoft IIS WebDAV.md",
+    "4. Vulnerability Assessment/1. Vulnerability Assessment/d. WebDAV Vulnerabilities.md",
+    "4. Vulnerability Assessment/3. Vulnerabilty Scanning/b. Web App Vulnerability Scanning with WMAP.md",
+    "4. Vulnerability Assessment/3. Vulnerabilty Scanning/a. Vulnerability Scanning with Nessus.md",
+    "4. Vulnerability Assessment/2. Vulnerability Analysis/e. Shellshock.md",
+    "4. Vulnerability Assessment/LAB.md",
+    "4. Vulnerability Assessment/2. Vulnerability Analysis/d. Frequently Exploited Linux Services.md",
+    "4. Vulnerability Assessment/2. Vulnerability Analysis/a. EternalBlue.md",
+    "2. Footprinting & Scanning/3. Host Discovery/c. Ping Sweeps.md",
+    "2. Footprinting & Scanning/3. Host Discovery/b. Host Discovery Techniques.md",
+    "6. System-Host Based Attacks/1. Windows Vulnerabilities/b. Frequently Exploited Windows Services.md",
+    "6. System-Host Based Attacks/1. Windows Vulnerabilities/a. Overview of Windows Vulnerabilities.md",
+    "4. Vulnerability Assessment/1. Vulnerability Assessment/b. Frequently Exploited Windows Services.md",
+    "4. Vulnerability Assessment/1. Vulnerability Assessment/a. Overview of Windows Vulnerabilities.md",
     "5. Auditing Fundamentals/4. From Auditing to Penetration Testing/c. Phase 3 - Conduct Penetration Test.md",
+    "6. System-Host Based Attacks/3. Windows Privilege Escalation",
+    "6. System-Host Based Attacks/2. Windows Exploitation",
+    "6. System-Host Based Attacks/1. Windows Vulnerabilities/Untitled",
+    "6. System-Host Based Attacks/1. Windows Vulnerabilities",
+    "6. System-Host Based Attacks",
     "5. Auditing Fundamentals/4. From Auditing to Penetration Testing/b. Phase 2 - Security Auditing with Lynis.md",
     "5. Auditing Fundamentals/4. From Auditing to Penetration Testing/a. Phase 1 - Develop a Security Policy.md",
     "5. Auditing Fundamentals/3. Governance, Risk & Compliance/b. Common Standards, Frameworks & Guidelines.md",
@@ -186,35 +213,13 @@
     "5. Auditing Fundamentals/2. Introduction to Security Auditing/d. Types of Security Audits.md",
     "5. Auditing Fundamentals/2. Introduction to Security Auditing/a. Overview of Security Auditing.md",
     "5. Auditing Fundamentals/2. Introduction to Security Auditing/c. Security Auditing Process or Lifecycle.md",
-    "5. Auditing Fundamentals/2. Introduction to Security Auditing/b. Essential Terminology.md",
-    "5. Auditing Fundamentals/1. Introduction/Introduction.md",
-    "4. Vulnerability Assessment/LAB.md",
     "5. Auditing Fundamentals/4. From Auditing to Penetration Testing",
     "5. Auditing Fundamentals/3. Governance, Risk & Compliance",
     "5. Auditing Fundamentals/2. Introduction to Security Auditing",
     "5. Auditing Fundamentals/1. Introduction",
-    "4. Vulnerability Assessment/2. Vulnerability Analysis/e. Shellshock.md",
-    "4. Vulnerability Assessment/2. Vulnerability Analysis/d. Frequently Exploited Linux Services.md",
-    "4. Vulnerability Assessment/2. Vulnerability Analysis/c. Pass-the-Hash Attacks.md",
-    "4. Vulnerability Assessment/2. Vulnerability Analysis/b. BlueKeep.md",
-    "4. Vulnerability Assessment/2. Vulnerability Analysis/a. EternalBlue.md",
-    "4. Vulnerability Assessment/1. Vulnerability Assessment/d. WebDAV Vulnerabilities.md",
-    "4. Vulnerability Assessment/1. Vulnerability Assessment/c. Vulnerability Scanning with MSF.md",
-    "4. Vulnerability Assessment/1. Vulnerability Assessment/b. Frequently Exploited Winodws Services.md",
-    "4. Vulnerability Assessment/1. Vulnerability Assessment/a. Overview of Windows Vulnerabilities.md",
-    "3. Enumeration/3. Service Enumeration/d. MySQL Enumeration.md",
-    "4. Vulnerability Assessment/3. Vulnerabilty Scanning/b. Web App Vulnerability Scanning with WMAP.md",
-    "4. Vulnerability Assessment/3. Vulnerabilty Scanning/a. Vulnerability Scanning with Nessus.md",
     "4. Vulnerability Assessment/3. Vulnerabilty Scanning",
-    "4. Vulnerability Assessment/2. Vulnerability Analysis",
-    "2. Footprinting & Scanning/4. Port Scanning/b. Port Scanning With Nmap - Part 2.md",
-    "2. Footprinting & Scanning/4. Port Scanning/a. Port Scanning With Nmap - Part 1.md",
-    "4. Vulnerability Assessment/1. Vulnerability Assessment",
     "Sans titre.canvas",
     "2. Footprinting & Scanning/Sans titre.canvas",
-    "3. Enumeration/4. Service Enumeration with Nmap Scripts",
-    "3. Enumeration/3. Service Enumeration",
-    "3. Enumeration/2. The Nmap Scripting Engine (NSE)",
     "Cheatsheet/Sans titre.canvas",
     "three-ways-handshake.jpg",
     "Pasted image 20250206012627.png",

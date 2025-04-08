@@ -1,0 +1,5 @@
+ - Information disclosure
+ - Buffer overflows
+ - Remote code execution (RCE)
+ - Privilege escalation
+ - Denial of Service (DoS)
