@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. System-Host Based Attacks/2. Windows Exploitation/d. Exploiting RDP.md",
+                "file": "4. Vulnerability Assessment/2. Vulnerability Analysis/b. BlueKeep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "d. Exploiting RDP"
+              "title": "b. BlueKeep"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b48dde27cb7174a1",
@@ -182,16 +181,16 @@
   },
   "active": "468caddc6062e4ee",
   "lastOpenFiles": [
-    "6. System-Host Based Attacks/2. Windows Exploitation/c. Exploiting SMB with PsExec.md",
+    "4. Vulnerability Assessment/2. Vulnerability Analysis/d. Frequently Exploited Linux Services.md",
+    "4. Vulnerability Assessment/3. Vulnerabilty Scanning/a. Vulnerability Scanning with Nessus.md",
+    "4. Vulnerability Assessment/3. Vulnerabilty Scanning/b. Web App Vulnerability Scanning with WMAP.md",
     "6. System-Host Based Attacks/2. Windows Exploitation/d. Exploiting RDP.md",
+    "6. System-Host Based Attacks/2. Windows Exploitation/c. Exploiting SMB with PsExec.md",
     "6. System-Host Based Attacks/2. Windows Exploitation/b. Exploiting WebDAV with Metasploit.md",
     "6. System-Host Based Attacks/2. Windows Exploitation/a. Exploiting Microsoft IIS WebDAV.md",
     "4. Vulnerability Assessment/1. Vulnerability Assessment/d. WebDAV Vulnerabilities.md",
-    "4. Vulnerability Assessment/3. Vulnerabilty Scanning/b. Web App Vulnerability Scanning with WMAP.md",
-    "4. Vulnerability Assessment/3. Vulnerabilty Scanning/a. Vulnerability Scanning with Nessus.md",
     "4. Vulnerability Assessment/2. Vulnerability Analysis/e. Shellshock.md",
     "4. Vulnerability Assessment/LAB.md",
-    "4. Vulnerability Assessment/2. Vulnerability Analysis/d. Frequently Exploited Linux Services.md",
     "4. Vulnerability Assessment/2. Vulnerability Analysis/a. EternalBlue.md",
     "2. Footprinting & Scanning/3. Host Discovery/c. Ping Sweeps.md",
     "2. Footprinting & Scanning/3. Host Discovery/b. Host Discovery Techniques.md",
