@@ -11,10 +11,14 @@
             "id": "63a56a23ad896821",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6. System-Host Based Attacks/6. Linux Vulnerabilies/c. Exploiting FTP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "c. Exploiting FTP"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pass-T",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,6 +181,18 @@
   },
   "active": "63a56a23ad896821",
   "lastOpenFiles": [
+    "5. Auditing Fundamentals/2. Introduction to Security Auditing/a. Overview of Security Auditing.md",
+    "5. Auditing Fundamentals/2. Introduction to Security Auditing/c. Security Auditing Process or Lifecycle.md",
+    "5. Auditing Fundamentals/2. Introduction to Security Auditing/d. Types of Security Audits.md",
+    "5. Auditing Fundamentals/2. Introduction to Security Auditing/e. Security Auditing & Penetration Testing.md",
+    "5. Auditing Fundamentals/4. From Auditing to Penetration Testing/a. Phase 1 - Develop a Security Policy.md",
+    "6. System-Host Based Attacks/6. Linux Vulnerabilies/c. Exploiting FTP.md",
+    "Cheatsheet/Cheasheet.md",
+    "4. Vulnerability Assessment/2. Vulnerability Analysis/e. Shellshock.md",
+    "6. System-Host Based Attacks/6. Linux Vulnerabilies/b. Shellshock.md",
+    "6. System-Host Based Attacks/6. Linux Vulnerabilies/a. Frequently Exploited Linux Services.md",
+    "6. System-Host Based Attacks/6. Linux Frequently Exploited Services.md",
+    "6. System-Host Based Attacks/6. Linux Vulnerabilies",
     "6. System-Host Based Attacks/A. CTF1 - LAB WINDOWS/CTF1  - LAB WINDOWS.md",
     "6. System-Host Based Attacks/2. Windows Exploitation/c. Exploiting SMB with PsExec.md",
     "3. Enumeration/2. The Nmap Scripting Engine (NSE)/c. Port Scanning with Auxiliary Modules.md",
@@ -192,17 +208,6 @@
     "6. System-Host Based Attacks/1. Windows Vulnerabilities/a. Overview of Windows Vulnerabilities.md",
     "4. Vulnerability Assessment/3. Vulnerabilty Scanning/a. Vulnerability Scanning with Nessus.md",
     "6. System-Host Based Attacks/2. Windows Exploitation/e. Exploiting WinRM.md",
-    "3. Enumeration/3. Service Enumeration/LAB.md",
-    "3. Enumeration/3. Service Enumeration/c. Web Server Enumeration.md",
-    "3. Enumeration/2. The Nmap Scripting Engine (NSE)/b. Importing Nmap Scan Results into MSF.md",
-    "3. Enumeration/2. The Nmap Scripting Engine (NSE)/a. Port Scanning & Enumeration with Nmap.md",
-    "4. Vulnerability Assessment/3. Vulnerabilty Scanning/b. Web App Vulnerability Scanning with WMAP.md",
-    "3. Enumeration/3. Service Enumeration/d. MySQL Enumeration.md",
-    "3. Enumeration/2. The Nmap Scripting Engine (NSE)/MINI-LAB - T1046 Network Service and Scanning.md",
-    "3. Enumeration/1. Intro to Enumeration/a. Introduction to Enumeration.md",
-    "4. Vulnerability Assessment/1. Vulnerability Assessment/a. Overview of Windows Vulnerabilities.md",
-    "4. Vulnerability Assessment/2. Vulnerability Analysis/a. EternalBlue.md",
-    "4. Vulnerability Assessment/2. Vulnerability Analysis/b. BlueKeep.md",
     "6. System-Host Based Attacks/A. CTF1 - LAB WINDOWS",
     "6. System-Host Based Attacks/5. Windows Credential Dumping",
     "6. System-Host Based Attacks/4. Windows FIle System Vulnerabilities",
@@ -212,7 +217,6 @@
     "5. Auditing Fundamentals/4. From Auditing to Penetration Testing",
     "5. Auditing Fundamentals/3. Governance, Risk & Compliance",
     "5. Auditing Fundamentals/2. Introduction to Security Auditing",
-    "5. Auditing Fundamentals/1. Introduction",
     "Sans titre.canvas",
     "2. Footprinting & Scanning/Sans titre.canvas",
     "Cheatsheet/Sans titre.canvas",
