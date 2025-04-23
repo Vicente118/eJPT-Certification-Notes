@@ -1,0 +1,2 @@
+- After host discovery and port scanning phase of a penetration test, the next logical phase is going to involve service enumeration.
+- The goal of service enumeration is to gather additional, more specific information about the hosts on a network and service runnin on said hosts.

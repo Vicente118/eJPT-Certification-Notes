@@ -1,0 +1,7 @@
+- Essential Terminology:
+	 - Interface: Methods of interacting with the MSF
+	 - Module: Piece of code that perform a particular task
+	 - Vulnerability: Weakness or flaw in a computer system or network that can be exploited
+	 - Exploit: Piece of code that is used to take advantage of a vulnerability within system, service or application.
+	 - Payload: Piece of code delivered to the target system by an exploit with the objective of executing arbitrary commands or providing remote access to an attacker
+	 - Listener: A utility that listens for an incoming connection from target
