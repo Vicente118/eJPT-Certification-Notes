@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. Introduction to the Web & HTTP Protocol/Web Application Penetration Testing CTF1.md",
+                "file": "9. Exploitation/3. Searching For Exploits/b. SearchSploit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Application Penetration Testing CTF1"
+              "title": "b. SearchSploit"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Microsoft IIS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,15 +183,26 @@
   },
   "active": "1809335a7350dac0",
   "lastOpenFiles": [
+    "9. Exploitation/3. Searching For Exploits/a. Searching For Publicly Available Exploits.md",
+    "9. Exploitation/3. Searching For Exploits/b. SearchSploit.md",
+    "9. Exploitation/1. Introduction To Exploitation/a. Introduction To Exploitation.md",
+    "9. Exploitation/3. Searching For Exploits",
+    "9. Exploitation/2. Vulnerability Scanning Overview/a. Banner Grabbing.md",
+    "9. Exploitation/2. Vulnerability Scanning Overview",
+    "11. Introduction to the Web & HTTP Protocol/4. Website Crawling & Spidering/a. Passive Crawling & Spidering with Burp Suite & OWASP ZAP.md",
+    "9. Exploitation/1. Introduction To Exploitation",
+    "11. Introduction to the Web & HTTP Protocol/3. HTTP Protocol Fundamentals/f. HTTP Basics Lab - Part 2.md",
+    "11. Introduction to the Web & HTTP Protocol/3. HTTP Protocol Fundamentals/e. HTTP Basics Lab - Part 1.md",
+    "11. Introduction to the Web & HTTP Protocol/3. HTTP Protocol Fundamentals/d. HTTP Response.md",
+    "11. Introduction to the Web & HTTP Protocol/3. HTTP Protocol Fundamentals/b. HTTP Requests - Part 1.md",
+    "11. Introduction to the Web & HTTP Protocol/3. HTTP Protocol Fundamentals/a. Introduction to HTTP.md",
     "11. Introduction to the Web & HTTP Protocol/3. HTTP Protocol Fundamentals/c. HTTP Requests - Part 2.md",
     "11. Introduction to the Web & HTTP Protocol/Web Application Penetration Testing CTF1.md",
-    "11. Introduction to the Web & HTTP Protocol/3. HTTP Protocol Fundamentals/b. HTTP Requests - Part 1.md",
     "4. Vulnerability Assessment/1. Vulnerability Assessment/d. WebDAV Vulnerabilities.md",
     "4. Vulnerability Assessment/1. Vulnerability Assessment/c. Vulnerability Scanning with MSF.md",
     "4. Vulnerability Assessment/1. Vulnerability Assessment/b. Frequently Exploited Windows Services.md",
     "4. Vulnerability Assessment/1. Vulnerability Assessment/a. Overview of Windows Vulnerabilities.md",
     "6. System-Host Based Attacks/2. Windows Exploitation/a. Exploiting Microsoft IIS WebDAV.md",
-    "11. Introduction to the Web & HTTP Protocol/3. HTTP Protocol Fundamentals/a. Introduction to HTTP.md",
     "11. Introduction to the Web & HTTP Protocol/2. Web Application Architecture & Components/c. Web Application Technologies - Part 2.md",
     "11. Introduction to the Web & HTTP Protocol/2. Web Application Architecture & Components/b. Web Application Technologies - Part 1.md",
     "11. Introduction to the Web & HTTP Protocol/2. Web Application Architecture & Components/a. Web Application Architecture.md",
@@ -200,24 +212,13 @@
     "6. System-Host Based Attacks/2. Windows Exploitation/b. Exploiting WebDAV with Metasploit.md",
     "11. Introduction to the Web & HTTP Protocol/1. Introduction to Web App Security Testing/b. Web Application Security Testing.md",
     "11. Introduction to the Web & HTTP Protocol/1. Introduction to Web App Security Testing/a. Introduction to Web Application Security.md",
-    "8. Metasploit Framework/8. Windows Post Exploitation/b. Windows Privilege Escalation: Bypassing UAC.md",
     "11. Introduction to the Web & HTTP Protocol/4. Website Crawling & Spidering",
     "11. Introduction to the Web & HTTP Protocol/3. HTTP Protocol Fundamentals",
     "11. Introduction to the Web & HTTP Protocol/2. Web Application Architecture & Components",
     "11. Introduction to the Web & HTTP Protocol/1. Introduction to Web App Security Testing",
     "11. Introduction to the Web & HTTP Protocol",
     "9. Exploitation",
-    "8. Metasploit Framework/8. Windows Post Exploitation/c. Winows Privilege Escalation: Token Impersonation With Incognito.md",
-    "8. Metasploit Framework/8. Windows Post Exploitation/f. Establishing Persistence on Windows.md",
-    "8. Metasploit Framework/8. Windows Post Exploitation/e. Pass-The-Hash With PSExec.md",
-    "8. Metasploit Framework/8. Windows Post Exploitation/d. Dumping Hashes With Mimikatz.md",
-    "8. Metasploit Framework/9. Linux Post Exploitation/d. Establishing Persistence On Linux.md",
-    "8. Metasploit Framework/9. Linux Post Exploitation/c. Dumping Hashes With Hashdump.md",
-    "8. Metasploit Framework/9. Linux Post Exploitation/b. Exploiting a Vulnerable Program.md",
     "8. Metasploit Framework/9. Linux Post Exploitation",
-    "8. Metasploit Framework/15. Armitage",
-    "8. Metasploit Framework/14. Linux Post Exploitation",
-    "8. Metasploit Framework/13. Windows Post Exploitation",
     "2. Footprinting & Scanning/Sans titre.canvas",
     "Sans titre.canvas",
     "Cheatsheet/Sans titre.canvas",

