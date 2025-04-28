@@ -253,7 +253,7 @@ smbmap -u <USER> -p '<PW>' -H <TARGET_IP> --download 'C$\flag.txt'
 # Connection
 smbclient -L <TARGET_IP> -N
 smbclient -L <TARGET_IP> -U <USER>
-smbclient //<TARGET_IP>/<USER> -U <USER>
+ smbclient //<TARGET_IP>/<USER> -U <USER>
 smbclient //<TARGET_IP>/admin -U admin
 smbclient //<TARGET_IP>/public -N #NULL Session
 ## SMBCLIENT
